@@ -1,0 +1,19 @@
+.header {
+  background-color: white;
+  padding: 20px 0;
+   height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logotransparentswapp {
+  width: 200px;
+  height: auto;
+}
